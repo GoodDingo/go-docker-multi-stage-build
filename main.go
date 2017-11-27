@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-	log.Println("Hello from DataScript...\n")
+	log.Println("DatScript\nHello from docker...\n")
 }
