@@ -3,5 +3,5 @@ package main
 import "log"
 
 func main() {
-	log.Println("Hello, go!")
+	log.Println("Hello from DataScript...\n")
 }
